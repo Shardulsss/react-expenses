@@ -1,0 +1,15 @@
+.form-exp{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-each{
+    margin-bottom: $s-size;
+    
+}
+.text-box{
+    border:1px solid #cacccd;
+    height:80px;
+    font-weight: 300;
+    padding:$s-size;
+}

@@ -1,0 +1,11 @@
+.button{
+    border: none;
+    background: $purple;
+    border-bottom: .4rem solid darken($color:$purple, $amount: 10%);
+    color: white;
+    font-weight: bold;
+    font-size: $s-size;
+    
+    padding: 0.5rem;
+    cursor: pointer;
+}
